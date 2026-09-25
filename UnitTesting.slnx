@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="UnitTestingApp.Tests/UnitTestingApp.Tests.csproj" Id="365a7438-9145-401d-abe2-db1444c1a162" />
+  <Project Path="UnitTestingApp/UnitTestingApp.csproj" Id="30aa8909-e47e-4ae6-a11a-44ab7f8d4ee1" />
+  <Project Path="UnitTestingAssignment/UnitTesting.csproj" />
+</Solution>

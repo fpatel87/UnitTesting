@@ -1,0 +1,15 @@
+C:\CSharpAssignment\UnitTestingAssignment\UnitTestingAssignment\bin\Debug\net10.0\UnitTesting.exe
+C:\CSharpAssignment\UnitTestingAssignment\UnitTestingAssignment\bin\Debug\net10.0\UnitTesting.deps.json
+C:\CSharpAssignment\UnitTestingAssignment\UnitTestingAssignment\bin\Debug\net10.0\UnitTesting.runtimeconfig.json
+C:\CSharpAssignment\UnitTestingAssignment\UnitTestingAssignment\bin\Debug\net10.0\UnitTesting.dll
+C:\CSharpAssignment\UnitTestingAssignment\UnitTestingAssignment\bin\Debug\net10.0\UnitTesting.pdb
+C:\CSharpAssignment\UnitTestingAssignment\UnitTestingAssignment\obj\Debug\net10.0\UnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\UnitTestingAssignment\UnitTestingAssignment\obj\Debug\net10.0\UnitTesting.AssemblyInfoInputs.cache
+C:\CSharpAssignment\UnitTestingAssignment\UnitTestingAssignment\obj\Debug\net10.0\UnitTesting.AssemblyInfo.cs
+C:\CSharpAssignment\UnitTestingAssignment\UnitTestingAssignment\obj\Debug\net10.0\UnitTesting.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\UnitTestingAssignment\UnitTestingAssignment\obj\Debug\net10.0\UnitTesting.sourcelink.json
+C:\CSharpAssignment\UnitTestingAssignment\UnitTestingAssignment\obj\Debug\net10.0\UnitTesting.dll
+C:\CSharpAssignment\UnitTestingAssignment\UnitTestingAssignment\obj\Debug\net10.0\refint\UnitTesting.dll
+C:\CSharpAssignment\UnitTestingAssignment\UnitTestingAssignment\obj\Debug\net10.0\UnitTesting.pdb
+C:\CSharpAssignment\UnitTestingAssignment\UnitTestingAssignment\obj\Debug\net10.0\UnitTesting.genruntimeconfig.cache
+C:\CSharpAssignment\UnitTestingAssignment\UnitTestingAssignment\obj\Debug\net10.0\ref\UnitTesting.dll
